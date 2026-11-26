@@ -1,0 +1,1 @@
+Temporary placeholder file, created only to expose GitHub's About editor on this empty repository. It will be deleted right after the About section is set.
